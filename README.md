@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Created a new brand called readme-edits
+Created a new branch called readme-edits
